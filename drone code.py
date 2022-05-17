@@ -20,7 +20,9 @@ tello.move_up(100)
 
 #move forward
 
-tello.move_forward(700)
+tello.move_forward(500)
+
+tello.move_forward(200)
 
 #turn left(counter clockwise)
 
@@ -41,7 +43,9 @@ tello.rotate_clockwise(90)
 
 #a weee bit more turning
 
-tello.move_back(700)
+tello.move_back(500)
+
+tello.move_back(200)
 
 #and done
 
